@@ -1,1 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T05:52:50.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" version="16.2.4" etag="qLjrdTzmYLhwckCDKipW" type="github"><diagram id="ZE1x7BEflS1-NvDDn8an">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-10T06:39:32.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="drgU1Nl5CneH5jnT9Bwh" version="16.2.4" type="github">
+  <diagram id="ZE1x7BEflS1-NvDDn8an" name="Page-1">
+    <mxGraphModel dx="1886" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0gD0d5bJB1W-76s1HI3M-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0gD0d5bJB1W-76s1HI3M-1" target="0gD0d5bJB1W-76s1HI3M-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0gD0d5bJB1W-76s1HI3M-1" value="客户端" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0gD0d5bJB1W-76s1HI3M-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0gD0d5bJB1W-76s1HI3M-2" target="0gD0d5bJB1W-76s1HI3M-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0gD0d5bJB1W-76s1HI3M-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0gD0d5bJB1W-76s1HI3M-2" target="0gD0d5bJB1W-76s1HI3M-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0gD0d5bJB1W-76s1HI3M-2" value="数据收集模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0gD0d5bJB1W-76s1HI3M-3" value="存储介质" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="390" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0gD0d5bJB1W-76s1HI3M-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0gD0d5bJB1W-76s1HI3M-4" target="0gD0d5bJB1W-76s1HI3M-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0gD0d5bJB1W-76s1HI3M-4" value="系统降级模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="254" y="300" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0gD0d5bJB1W-76s1HI3M-7" value="服务端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="300" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0gD0d5bJB1W-76s1HI3M-10" value="正常请求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0gD0d5bJB1W-76s1HI3M-8" target="0gD0d5bJB1W-76s1HI3M-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0gD0d5bJB1W-76s1HI3M-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0gD0d5bJB1W-76s1HI3M-8" target="0gD0d5bJB1W-76s1HI3M-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0gD0d5bJB1W-76s1HI3M-12" value="降级请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0gD0d5bJB1W-76s1HI3M-11">
+          <mxGeometry x="-0.1886" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0gD0d5bJB1W-76s1HI3M-8" value="网关" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="180" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
